@@ -39,7 +39,7 @@
     const { t: $t } = useI18n();
     const featuredProjects = computed(() => [
       {
-        name: 'Example',
+        name: 'TITLE.Example',
         description: $t('PROJECTS.EJEMPLO'),
         stack: ['Screenshot',],
         image: '/images/cap_ejemplo.png',
