@@ -1,0 +1,71 @@
+/* Lightmode */
+:root {
+  /* colores de fondo */
+  --default-background: #E9ECEF;
+  --secondary-background: #F8F9FA;
+  --details-background: #FFFFFF;
+  --dark-background: #212529;
+
+  /* Colores de texto */
+  --default-text: #212529;
+  --secondary-text: #495057;
+  --disabled-text: #7a838b;
+
+  /* Colores complementarios */
+  --default-border: #CED4DA;
+  --highlight: #FFFFFF;
+}
+
+/* Darkmode */
+[data-theme="dark"] {
+  /* Colores de fondo */
+  --default-background: #1A1A1A;
+  --secondary-background: #202020;
+  --details-background: #2C2C2C;
+  --dark-background: #000000;
+
+  /* Cores de texto */
+  --default-text: #FFFFFF;
+  --secondary-text: #c8c8c8;
+  --disabled-text: #707070;
+
+  /* Cores complementares */
+  --default-border: #454545;
+}
+
+html{scroll-behavior:smooth}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  position: relative;
+  font-weight: normal;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 8rem auto;
+  padding: 0 2rem;
+}
+
+@media (max-width: 768px) {
+  .container { padding: 0 1.2rem; }
+}
+
+/* Fade transition */
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.15s ease;
+}
+
+.fade-enter-from,
+.fade-leave-to {
+  opacity: 0;
+}
+
+.highlight {
+  color: var(--primary-text);
+  font-weight: 700;
+}

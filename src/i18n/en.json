@@ -1,0 +1,66 @@
+{
+    "HOME": {
+      "PRESENTATION_1": "Hi! My name is",
+      "PRESENTATION_2": "I'm a",
+      "TITLE_1": "Web developer.",
+      "TITLE_2": "Designer.",
+      "TITLE_3": "Gamer.",
+      "TITLE_4": "Speaker.",
+      "SUMMARY": "I'm a Web mid-level developer based in La Paz, Honduras. Specialized in creating scalable applications with exceptional UX. With experience in both front-end and back-end, I can create end-to-end solutions that are efficient. Whether it's complex architecture or intuitive user interfaces.",
+      "VIEW_CV": "View Resume"
+    },
+    "ABOUT": {
+      "TITLE": "About",
+      "SUMMARY_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper rutrum diam id sollicitudin. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed lobortis tellus in sollicitudin feugiat. In lobortis nibh vitae egestas blandit.",
+      "SUMMARY_2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper rutrum diam id sollicitudin. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed lobortis tellus in sollicitudin feugiat. In lobortis nibh vitae egestas blandit.",
+      "SUMMARY_3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper rutrum diam id sollicitudin. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed lobortis tellus in sollicitudin feugiat. In lobortis nibh vitae egestas blandit.",
+      "SUMMARY_4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper rutrum diam id sollicitudin. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed lobortis tellus in sollicitudin feugiat. In lobortis nibh vitae egestas blandit."
+    },
+    "CAREER": {
+      "TITLE": "Career",
+      "UNAH": {
+        "RESUME_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper rutrum diam id sollicitudin. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed lobortis tellus in sollicitudin feugiat. In lobortis nibh vitae egestas blandit.",
+        "RESUME_2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper rutrum diam id sollicitudin. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed lobortis tellus in sollicitudin feugiat. In lobortis nibh vitae egestas blandit.",
+        "RESUME_3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper rutrum diam id sollicitudin. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed lobortis tellus in sollicitudin feugiat. In lobortis nibh vitae egestas blandit."
+      },
+      "UNISINOS": {
+        "RESUME_1": "At Internet Systems college, we gain a deep understanding of the foundational concepts behind internet technologies and systems. In addition to the technical knowledge we acquire, we also learn about the broader internet ecosystem and how it functions as a whole. This well-rounded education prepares us to excel in the ever-evolving field of web development.",
+        "RESUME_2": "With a focus on practical skills and hands-on experience, I expect to graduate from this program in 2025 with a thorough understanding of how to build efficient digital solutions."
+      },
+      "SCOPI": {
+        "RESUME_1": "Scopi is a software company that offers a variety of solutions for strategic planning, project management, and performance monitoring. As a trainee, I was responsible for developing new features and maintaining existing ones for the company’s flagship product, Scopi.",
+        "RESUME_2": "During my time at Scopi, I was able to gain valuable experience working with a variety of technologies, including Angular, Ruby and SQL. I also learned how to work effectively as part of a team using SCRUM, and how to communicate and collaborate with my colleagues to achieve our shared goals.",
+        "RESUME_3": "I am grateful for the opportunity to have worked at Scopi, and I am confident that the skills and experience I gained there will serve me well in my future endeavors."
+      },
+      "MINHA_VISITA": {
+        "RESUME_1": "Minha Visita is a startup that offers the simplest and most efficient way to manage commercial visits to customers. As a fullstack developer, I am responsible for developing new features and maintaining existing ones for the company’s flagship product, Minha Visita.",
+        "RESUME_2": "Currently we are developing a new version of the product, using the latest technologies, like Vue and NestJS, and best practices. I propose and implement scalable solutions to issues identified with our services and the application.",
+        "RESUME_3": "I'm collaborating with our team to ensure thoughtful and consistent user experiences across the web application and the apps."
+      }
+    },
+    "CONTACT": {
+      "TITLE": "Contact"
+    },
+    "PROJECTS": {
+      "TITLE": "Projects",
+      "COMING_SOON": "Projects coming soon! ",
+      "REPOSITORY": "Repository",
+      "VIEW": "View",
+      "JSON_SEARCHER": "JSON Searcher is a simple VSCode extension for searching within JSON files, particularly useful for locating data in i18n (internationalization) files.",
+      "CONSTRUSAUSEN": "Institutional website for the Construsausen timber company, with some company information, developed with Vue.js and SCSS.",
+      "WW_HIDE_CHATS_TOOLS": "My newest project, currently a work in progress (WIP), is a Chrome extension designed to hide, blur, and provide many more features for chats on WhatsApp Web.",
+      "EJEMPLO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper rutrum diam id sollicitudin. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed lobortis tellus in sollicitudin feugiat. In lobortis nibh vitae egestas blandit.",
+      "FEATURED": "Featured Project"
+    },
+    "HEADER": {
+      "HOME": "Home",
+      "ABOUT": "About",
+      "CAREER": "Career",
+      "PROJECTS": "Projects",
+      "CONTACT": "Contact"
+    },
+    "FOOTER": {
+      "AUTHOR": "Designed & Built by Eduardo Valenzuela",
+      "COPYRIGHT": "Copyright © 2024. All rights are reserved"
+    }
+  }
