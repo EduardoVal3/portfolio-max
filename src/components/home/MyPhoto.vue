@@ -3,8 +3,8 @@
       <img
         ref="myPhoto"
         srcset="
-          @/assets/images/me/yo4.jpg 280w,
-          @/assets/images/me/yo4.jpg 794w,
+          @/assets/images/me/yo3.jpg 280w,
+          @/assets/images/me/yo3.jpg 794w,
           @/assets/images/me/yo3.jpg 1130w,
           @/assets/images/me/yo3.jpg 1440w
         "
