@@ -44,6 +44,7 @@
         stack: ['Screenshot',],
         image: '/images/cap_ejemplo.png',
         link: '#',
+        repository: '#'
       }
     ]);
   
