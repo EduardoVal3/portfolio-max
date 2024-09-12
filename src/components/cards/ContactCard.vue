@@ -14,7 +14,7 @@
       <div 
         v-else
       >
-        <!-- pass customIcon as a custom component name  -->
+        <!-- pasar customIcon como nombre de componente personalizado  -->
         <component 
           :is="props.contact.customIcon"
           class="icon"
