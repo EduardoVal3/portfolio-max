@@ -40,7 +40,7 @@
 import { ref, computed } from 'vue';
 import i18n from '../i18n';
 
-import ptFlagImg from '@/assets/images/pt.png';
+import esFlagImg from '@/assets/images/es.png';
 import enFlagImg from '@/assets/images/en.png';
 
 const isDropdownOpen = ref(false);
@@ -57,16 +57,16 @@ const langs = [
     img: enFlagImg
   }, 
   {
-    label: 'Português',
+    label: 'Español',
     value: 'pt',
-    img: ptFlagImg
+    img: esFlagImg
   }
 ];
 
 const selectLang = (newLang) => {
   console.log(newLang);
   lang.value = newLang;
-  i18n.global.locale = newLang;
+  i18n.global.locale.value = newLang;
   isDropdownOpen.value = false;
 };
 

@@ -3,12 +3,12 @@
       <img
         ref="myPhoto"
         srcset="
-          @/assets/images/me/me3.jpg 280w,
-          @/assets/images/me/me3.jpg 794w,
-          @/assets/images/me/me3.jpg 1130w,
-          @/assets/images/me/me3.jpg 1440w
+          @/assets/images/me/perrito.webp 280w,
+          @/assets/images/me/perrito.webp 794w,
+          @/assets/images/me/perrito.webp 1130w,
+          @/assets/images/me/perrito.webp 1440w
         "
-        src="@/assets/images/me/me3.jpg"
+        src="@/assets/images/me/perrito.webp"
         alt="Eduardo Valenzuela Mejia" 
         :style="{ transform: cardTransform, boxShadow: cardBoxShadow }"
       />

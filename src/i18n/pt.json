@@ -1,65 +1,49 @@
 {
-    "HOME": {
-      "PRESENTATION_1": "Olá! Meu nome é",
-      "PRESENTATION_2": "Sou um",
-      "TITLE_1": "Desenvolvedor fullstack.",
-      "TITLE_2": "Designer.",
-      "TITLE_3": "Pai de gatos.",
-      "TITLE_4": "Palestrante.",
-      "SUMMARY": "Sou desenvolvedor fullstack pleno, do Rio Grande do Sul, Brasil. Eu me especializo na criação de Apps de alta qualidade e escaláveis com experiências excepcionais para os usuários. Com experiência no desenvolvimento tanto do front-end quanto do back-end, sou capaz de construir soluções completas e eficientes.",
-      "VIEW_CV": "Ver currículo"
-    },
-    "ABOUT": {
-      "TITLE": "Sobre mim",
-      "SUMMARY_1": "Olá, eu sou <span class=\"highlight\">Matheus</span>, desenvolvedor fullstack habitante do Rio Grande do Sul, Brasil. Para mim, criar sistemas vai além de apenas um trabalho - é uma paixão. Descobri essa vontade inicialmente ao me aventurar no design gráfico usando o Photoshop, o que eventualmente me levou a explorar o empolgante mundo do desenvolvimento web.",
-      "SUMMARY_2": "Com <span class=\"highlight\">3 anos de experiência</span> no currículo, estou sempre ansioso para aprender e expandir meu conjunto de habilidades. Tenho particular interesse em <span class=\"highlight\">padrões e princípios de design</span>, e me esforço para aplicá-los em todos os meus projetos.",
-      "SUMMARY_3": "Minha jornada começou como um <span class=\"highlight\">estagiário trabalhando com Ruby on Rails</span>, e desde então ampliei meus horizontes para incluir tecnologias como Vue e NestJS. Eu adoro o desafio de criar <span class=\"highlight\">aplicações centradas no usuário</span> que resolvam problemas do mundo real, e tenho muito orgulho em entregar produtos que são não apenas funcionais, mas também visualmente atraentes.",
-      "SUMMARY_4": "Quando não estou programando, geralmente estou me mantendo atualizado com as <span class=\"highlight\">últimas tendências da área Tech</span> ou experimentando novas ferramentas e frameworks. Obrigado por passar por aqui e me conhecer um pouco melhor!"
-    },
-    "CAREER": {
-      "TITLE": "Carreira",
-      "CIMOL": {
-        "RESUME_1": "O CIMOL é uma escola técnica que oferece uma variedade de cursos em áreas como de informática, design e eletrônica.",
-        "RESUME_2": "No curso técnico integrado ao ensino médio, fui apresentado a uma variedade de disciplinas, incluindo programação, desenvolvimento web, design gráfico e hardware. Através deste currículo abrangente, adquiri uma base sólida no campo da tecnologia da informação.",
-        "RESUME_3": "Ao final do curso, estava bem preparado com o conhecimento e habilidades necessárias para ingressar no mercado de trabalho com confiança. Graças ao treinamento prático e à experiência do mundo real fornecidos pelo programa, pude fazer a transição perfeita para minha carreira profissional e continuar a construir sobre a sólida base que estabeleci durante o curso."
-      },
-      "UNISINOS": {
-        "RESUME_1": "No faculdade de Sistemas para Internet, obtemos uma compreensão profunda dos conceitos fundamentais por trás das tecnologias e sistemas da internet. Além do conhecimento técnico que adquirimos, também aprendemos sobre o ecossistema mais amplo da internet e como ele funciona como um todo. Essa educação abrangente nos prepara para nos destacarmos no campo em constante evolução do desenvolvimento web.",
-        "RESUME_2": "Com foco em habilidades práticas e experiência prática, espero me formar neste programa em 2025 com um entendimento completo de como construir soluções digitais eficientes."
-      },
-      "SCOPI": {
-        "RESUME_1": "A Scopi é uma empresa de software que oferece uma variedade de soluções para planejamento estratégico, gerenciamento de projetos e monitoramento de desempenho. Como estagiário, fui responsável pelo desenvolvimento de novos recursos e pela manutenção dos existentes para o produto principal da empresa.",
-        "RESUME_2": "Durante o meu tempo na Scopi, pude adquirir experiência valiosa trabalhando com diversas tecnologias, incluindo Angular, Ruby e SQL. Também aprendi a trabalhar de forma eficaz como parte de uma equipe usando SCRUM, e como comunicar e colaborar com meus colegas para alcançar nossos objetivos comuns.",
-        "RESUME_3": "Sou grato pela oportunidade de ter trabalhado na Scopi e tenho confiança de que as habilidades e experiência que adquiri lá me servirão bem em minhas futuras experiências."
-      },
-      "MINHA_VISITA": {
-        "RESUME_1": "Minha Visita é uma startup que oferece a maneira mais simples e eficiente de gerenciar visitas comerciais aos clientes. Como desenvolvedor fullstack, sou responsável pelo desenvolvimento de novos recursos e pela manutenção dos existentes para o produto principal da empresa, o Minha Visita.",
-        "RESUME_2": "Atualmente, estamos desenvolvendo uma nova versão do produto, utilizando as tecnologias mais recentes, como Vue e NestJS, e as melhores práticas. Proponho e implemento soluções escaláveis para problemas identificados em nossos serviços e no aplicativo.",
-        "RESUME_3": "Estou colaborando com nossa equipe para garantir experiências de usuário cuidadosas e consistentes em toda a aplicação web e os aplicativos."
-      }
-    },
-    "CONTACT": {
-      "TITLE": "Contato"
-    },
-    "PROJECTS": {
-      "TITLE": "Projetos",
-      "COMING_SOON": "Novos projetos em breve! 😎",
-      "REPOSITORY": "Repositório",
-      "VIEW": "Visualizar",
-      "JSON_SEARCHER": "JSON Searcher é uma extensão simples para o VSCode usada para buscar caminhos dentro de arquivos JSON, particularmente útil para usar com arquivos de i18n (internationalization).",
-      "CONSTRUSAUSEN": "Site institucional para a empresa Madereira Construsausen, com algumas informações da empresa, desenvolvido com Vue.js e SCSS.",
-      "WW_HIDE_CHATS_TOOLS": "Meu projeto mais recente, atualmente em desenvolvimento (WIP), é uma extensão para o Chrome projetada para ocultar, desfocar e oferecer muitos outros recursos para bate-papos no WhatsApp Web.",
-      "FEATURED": "Projeto em destaque"
-    },
-    "HEADER": {
-      "HOME": "Início",
-      "ABOUT": "Sobre",
-      "CAREER": "Carreira",
-      "PROJECTS": "Projetos",
-      "CONTACT": "Contato"
-    },
-    "FOOTER": {
-      "AUTHOR": "Projetado e desenvolvido por Matheus Dias",
-      "COPYRIGHT": "Copyright © 2023. Todos os direitos reservados."
+  "HOME": {
+    "PRESENTATION_1": "¡Hola! Mi nombre es",
+    "PRESENTATION_2": "Soy un",
+    "TITLE_1": "Desarrollador web.",
+    "TITLE_2": "Diseñador.",
+    "TITLE_3": "Comunicador.",
+    "SUMMARY": "Desarrollador web radicado en La Paz, Honduras. Especializado en crear aplicaciones escalables con una experiencia de usuario excepcional. Con experiencia tanto en front-end como en back-end, puedo crear soluciones integrales que sean eficientes, ya sea que se trate de una arquitectura compleja o de interfaces de usuario intuitivas.",
+    "VIEW_CV": "Ver Currículum"
+  },
+  "ABOUT": {
+    "TITLE": "Sobre mí",
+    "SUMMARY_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper rutrum diam id sollicitudin. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed lobortis tellus in sollicitudin feugiat. In lobortis nibh vitae egestas blandit.",
+    "SUMMARY_2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper rutrum diam id sollicitudin. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed lobortis tellus in sollicitudin feugiat. In lobortis nibh vitae egestas blandit.",
+    "SUMMARY_3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper rutrum diam id sollicitudin. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed lobortis tellus in sollicitudin feugiat. In lobortis nibh vitae egestas blandit.",
+    "SUMMARY_4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper rutrum diam id sollicitudin. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed lobortis tellus in sollicitudin feugiat. In lobortis nibh vitae egestas blandit."
+  },
+  "CAREER": {
+    "TITLE": "Carrera",
+    "UNAH": {
+      "RESUME_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper rutrum diam id sollicitudin. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed lobortis tellus in sollicitudin feugiat. In lobortis nibh vitae egestas blandit.",
+      "RESUME_2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper rutrum diam id sollicitudin. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed lobortis tellus in sollicitudin feugiat. In lobortis nibh vitae egestas blandit.",
+      "RESUME_3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper rutrum diam id sollicitudin. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed lobortis tellus in sollicitudin feugiat. In lobortis nibh vitae egestas blandit."
     }
+  },
+  "CONTACT": {
+    "TITLE": "Contacto"
+  },
+  "PROJECTS": {
+    "TITLE": "Proyectos",
+    "COMING_SOON": "¡Proyectos próximamente!",
+    "REPOSITORY": "Repositorio",
+    "VIEW": "Ver",
+    "JSON_SEARCHER": "JSON Searcher is a simple VSCode extension for searching within JSON files, particularly useful for locating data in i18n (internationalization) files.",
+    "EJEMPLO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper rutrum diam id sollicitudin. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed lobortis tellus in sollicitudin feugiat. In lobortis nibh vitae egestas blandit.",
+    "FEATURED": "Proyecto destacado"
+  },
+  "HEADER": {
+    "HOME": "Inicio",
+    "ABOUT": "Sobre",
+    "CAREER": "Carrera",
+    "PROJECTS": "Projectos",
+    "CONTACT": "Contacto"
+  },
+  "FOOTER": {
+    "AUTHOR": "Diseñado y construido por Eduardo Mejía",
+    "COPYRIGHT": "Copyright © 2024. Todos los derechos reservados"
   }
+}
