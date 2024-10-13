@@ -102,16 +102,18 @@
 
   const sectionOptions = [
     { id: 'home', label: $t('HEADER.HOME') },
-    { id: 'about', label: $t('HEADER.ABOUT') },
     { id: 'career', label: $t('HEADER.CAREER') },
     { id: 'projects', label: $t('HEADER.PROJECTS') },
+    { id: 'about', label: $t('HEADER.ABOUT') },
     { id: 'contact', label: $t('HEADER.CONTACT') },
   ];
   
   const isMenuOpen = ref(false);
 
-  const openMobileMenu = () => {
+  const openMobileMenu = () => 
     isMenuOpen.value = true;
+  {
+    isMenuOpen.value = false;
   }
 
   const closeMobileMenu = () => {

@@ -19,19 +19,20 @@
 /* Darkmode */
 [data-theme="dark"] {
   /* Colores de fondo */
-  --default-background: #1A1A1A;
-  --secondary-background: #202020;
-  --details-background: #2C2C2C;
-  --dark-background: #000000;
+  --default-background: #041020; /* Fondo principal: azul muy oscuro */
+  --secondary-background: #1A1F29; /* Fondo secundario: gris-azul oscuro */
+  --details-background: #122332; /* Fondo detalles: azul retro saturado */
+  --dark-background: #000000; /* Fondo oscuro: negro absoluto */
 
-  /* Cores de texto */
-  --default-text: #FFFFFF;
-  --secondary-text: #c8c8c8;
-  --disabled-text: #707070;
+  /* Colores de texto */
+  --default-text: #D9E2EC; /* Texto principal: azul claro grisáceo */
+  --secondary-text: #A3B2C2; /* Texto secundario: gris-azul claro */
+  --disabled-text: #6D7884; /* Texto desactivado: gris retro deslavado */
 
-  /* Cores complementares */
-  --default-border: #454545;
+  /* Colores complementarios */
+  --default-border: #263442; /* Borde predeterminado: gris oscuro azulado */
 }
+
 
 html{scroll-behavior:smooth}
 

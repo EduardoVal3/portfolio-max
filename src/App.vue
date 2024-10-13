@@ -3,9 +3,9 @@
 
   <body>
     <HomeView />
-    <AboutView />
     <CareerView />
     <ProjectsView />
+    <AboutView />
     <ContactView />
   </body>
 
