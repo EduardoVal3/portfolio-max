@@ -28,7 +28,7 @@
               :key="currentPlaceIndex"
             >
               <div class="title">
-                <span>{{ currentPlace.role }} at </span>
+                <span>{{ $t(`CAREER.${currentPlace.key}.ROLE`) }} {{ }}</span>
                 <a 
                   class="place-name"
                   :href="currentPlace.link"
@@ -39,7 +39,7 @@
               </div>
   
               <div class="period">
-                {{ currentPlace.period }}
+                {{ $t(`CAREER.${currentPlace.key}.PERIOD`) }}
               </div>
   
               <ul class="description">
@@ -72,12 +72,12 @@
       // If is mobile
       if (window.innerWidth <= 768) {
         return {
-          left: `${currentPlaceIndex.value * 25}%`,
+          left: `${currentPlaceIndex.value * 50}%`,
         };
       }
   
       return {
-        top: `${currentPlaceIndex.value * 25}%`,
+        top: `${currentPlaceIndex.value * 50}%`,
       };
     });
   
@@ -86,9 +86,13 @@
         name: 'UNAH',
         key: 'UNAH',
         paragraphsQtt: 3,
-        role: 'Student',
-        period: 'from 2023 until now',
         link: 'https://www.unah.edu.hn/',
+     },
+      { 
+        name: 'UDEMY',
+        key: 'UDEMY',
+        paragraphsQtt: 2,
+        link: 'https://www.unah.edu.hn',
      }
     ]
   
@@ -215,7 +219,7 @@
   
           .current-selected-marker {
             width: 3px;
-            height: 25%;
+            height: 50%;
             background-color: var(--highlight);
             position: absolute;
             left: 0;

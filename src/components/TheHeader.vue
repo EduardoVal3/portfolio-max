@@ -94,19 +94,20 @@
 
 <script setup>
   import { ref, onMounted } from 'vue'
+  import { computed } from 'vue';
   import { useI18n } from 'vue-i18n';
   import ThemeSwitch from './ThemeSwitch.vue';
   import LangSelect from './LangSelect.vue';
 
   const { t: $t } = useI18n();
 
-  const sectionOptions = [
+  const sectionOptions = computed(() => [
     { id: 'home', label: $t('HEADER.HOME') },
     { id: 'career', label: $t('HEADER.CAREER') },
     { id: 'projects', label: $t('HEADER.PROJECTS') },
     { id: 'about', label: $t('HEADER.ABOUT') },
     { id: 'contact', label: $t('HEADER.CONTACT') },
-  ];
+  ]);
   
   const isMenuOpen = ref(false);
 

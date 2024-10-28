@@ -67,6 +67,7 @@ const selectLang = (newLang) => {
   console.log(newLang);
   lang.value = newLang;
   i18n.global.locale.value = newLang;
+  
   isDropdownOpen.value = false;
 };
 
