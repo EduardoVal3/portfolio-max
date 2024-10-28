@@ -89,10 +89,10 @@
         link: 'https://www.unah.edu.hn/',
      },
       { 
-        name: 'UDEMY',
+        name: 'ORACLE',
         key: 'UDEMY',
         paragraphsQtt: 2,
-        link: 'https://www.unah.edu.hn',
+        link: 'https://academy.oracle.com/es/',
      }
     ]
   
