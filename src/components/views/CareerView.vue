@@ -72,7 +72,7 @@
       // If is mobile
       if (window.innerWidth <= 768) {
         return {
-          left: `${currentPlaceIndex.value * 50}%`,
+          left: `${currentPlaceIndex.value * 25.3}%`,
         };
       }
   
