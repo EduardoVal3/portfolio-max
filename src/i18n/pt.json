@@ -20,7 +20,16 @@
     "UNAH": {
       "RESUME_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper rutrum diam id sollicitudin. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed lobortis tellus in sollicitudin feugiat. In lobortis nibh vitae egestas blandit.",
       "RESUME_2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper rutrum diam id sollicitudin. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed lobortis tellus in sollicitudin feugiat. In lobortis nibh vitae egestas blandit.",
-      "RESUME_3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper rutrum diam id sollicitudin. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed lobortis tellus in sollicitudin feugiat. In lobortis nibh vitae egestas blandit."
+      "RESUME_3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper rutrum diam id sollicitudin. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed lobortis tellus in sollicitudin feugiat. In lobortis nibh vitae egestas blandit.",
+      "ROLE": "Estudiante en",
+      "PERIOD": "desde 2023 hasta ahora"
+    },
+    "UDEMY": {
+      "RESUME_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper rutrum diam id sollicitudin. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed lobortis tellus in sollicitudin feugiat. In lobortis nibh vitae egestas blandit.",
+      "RESUME_2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper rutrum diam id sollicitudin. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed lobortis tellus in sollicitudin feugiat. In lobortis nibh vitae egestas blandit.",
+      "RESUME_3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper rutrum diam id sollicitudin. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed lobortis tellus in sollicitudin feugiat. In lobortis nibh vitae egestas blandit.",
+      "ROLE": "Estudiante en",
+      "PERIOD": "desde 2024 hasta ahora"
     }
   },
   "CONTACT": {
@@ -31,15 +40,14 @@
     "COMING_SOON": "¡Proyectos próximamente!",
     "REPOSITORY": "Repositorio",
     "VIEW": "Ver",
-    "JSON_SEARCHER": "JSON Searcher is a simple VSCode extension for searching within JSON files, particularly useful for locating data in i18n (internationalization) files.",
     "EJEMPLO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper rutrum diam id sollicitudin. Orci varius natoque penatibus parturient montes.",
     "FEATURED": "Proyecto destacado"
   },
   "HEADER": {
     "HOME": "Inicio",
-    "ABOUT": "Sobre",
+    "ABOUT": "Sobre mí",
     "CAREER": "Carrera",
-    "PROJECTS": "Projectos",
+    "PROJECTS": "Proyectos",
     "CONTACT": "Contacto"
   },
   "FOOTER": {
