@@ -20,7 +20,7 @@
   
   <script setup>
     const openLinkedin = () => {
-      window.open('https://www.linkedin.com/in/eduardo-valenzuela-m/', '_blank');
+      window.open('#', '_blank'); // https://www.linkedin.com/in/eduardo-valenzuela-m/
     };
   
     const openGithub = () => {

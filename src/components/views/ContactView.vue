@@ -38,7 +38,7 @@
       {
         icon: 'fa-brands fa-linkedin',
         text: 'Eduardo Valenzuela Mejía',
-        link: 'https://www.linkedin.com/in/eduardo-valenzuela-m/'
+        link: '#' // https://www.linkedin.com/in/eduardo-valenzuela-m/
       },
       {
         customIcon: LeetCodeIcon,
